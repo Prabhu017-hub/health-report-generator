@@ -1,0 +1,5 @@
+rich
+pandas
+jinja2
+psutil
+pytest
